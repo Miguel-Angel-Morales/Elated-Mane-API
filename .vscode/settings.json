@@ -13,4 +13,9 @@
         "--load-plugins=pylint_django",
         "--django-settings-module=levelup.settings",
     ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#252C48",
+        "titleBar.activeBackground": "#343E64",
+        "titleBar.activeForeground": "#FBFCFD"
+    },
 }
